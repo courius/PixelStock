@@ -73,7 +73,7 @@ pip install customtkinter pillow
 Clone the repository, install the requirements above, then simply run:
 
 ```bash
-python main.py
+python3 main.py
 ```
 
 That's it — the application window will open, starting with the login screen.
