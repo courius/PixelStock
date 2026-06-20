@@ -7,6 +7,8 @@ A retro-styled, GUI-based inventory management system built in Python, designed 
 
 ---
 
+<img width="2880" height="1806" alt="Image" src="https://github.com/user-attachments/assets/8f9532f2-29d0-478c-b63c-4ba0803e6368" />
+
 ## About the project
 
 PixelStock started life as a basic terminal-based inventory script from my first year of college. For this hackathon, I went back to that original idea and rebuilt it from the ground up into a full graphical application — same core logic, completely new experience. Instead of typing numbers into a terminal prompt, you now get a proper interface: a login screen, a central "screen" display styled like an old terminal, sliding forms for input, live stock and value totals, and a save confirmation when you exit.
